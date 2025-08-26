@@ -1,0 +1,9 @@
+1. All the required files are in this zip file. 
+
+2. Archive file contain gsm8k dataset.
+
+3. Data file contain LAMA dataset.
+
+4. You first have to unzip both and make them ready for benchmark via running the following codes
+
+5. You should have to update the path of LAMA dataset because the file of dataset was too large and I was not able to upload it so I uploaded only one file. So kindly update your path.
